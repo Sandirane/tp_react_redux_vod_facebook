@@ -1,0 +1,59 @@
+{
+  "newReleases": [
+    {
+      "title": "Batman VS Superman",
+      "description": "Batman v Superman : L'Aube de la justice ou Batman vs Superman : L'Aube de la justice au Québec (Batman v Superman: Dawn of Justice) est un film de super-héros américain réalisé par Zack Snyder et sorti en 2016. Il fait suite à Man of Steel (2013) et précède Justice League (2017), tous deux du même réalisateur."
+    },
+    {
+      "title": "Avengers",
+      "description": "Avengers ou Les Avengers : Le film au Québec et au Nouveau-Brunswick (Marvel's The Avengers) est un film de super-héros américain écrit et réalisé par Joss Whedon, sorti en 2012. Il se base sur l'équipe de super-héros du même nom (Les Vengeurs en français) apparaissant dans le comic book publié par Marvel Comics et constitue le sixième film de l'univers cinématographique Marvel (dont il clôt le premier arc, appelé « Phase I »)."
+    },
+    {
+      "title": "Batman Begins",
+      "description": "Batman Begins ou Batman : Le Commencement au Québec et au Nouveau-Brunswick (Batman Begins) est un film américano-britannique réalisé par Christopher Nolan, sorti en 2005. Il s'inspire des comics Batman: The Man Who Falls, Batman : Année 1 et Batman : Un long Halloween. Il est le premier reboot de la saga Batman, 8 ans après Batman et Robin de Joel Schumacher."
+    }
+  ],
+  "topPicks": [
+    {
+      "title": "Titanic",
+      "description": "Titanic est une romance dramatique américaine écrite, produite et réalisée par James Cameron, sortie en 1997."
+    },
+    {
+      "title": "Thor : Ragnarok",
+      "description": "Thor : Ragnarok est un film de super-héros américain réalisé par Taika Waititi, sorti en 2017."
+    },
+    {
+      "title": "Jumanji",
+      "description": "Jumanji est un film américain réalisé par Joe Johnston, sorti en 1995. C'est l'adaptation cinématographique du livre pour enfants Jumanji de Chris Van Allsburg, publié en 1981."
+    }
+  ],
+  "preOrder": [
+    {
+      "title": "Captain America: First Avenger",
+      "description": "Captain America: First Avenger ou Capitaine America : Le Premier Vengeur au Québec (Captain America: The First Avenger) est un film de super-héros américain réalisé par Joe Johnston, sorti en 2011. Il s'agit de la 5e étape de l'univers cinématographique Marvel et il fait partie de la phase I"
+    },
+    {
+      "title": "Man of Steel",
+      "description": "Man of Steel ou L'Homme d'acier au Québec est un film américain-britannique réalisé par Zack Snyder, écrit par David S. Goyer et produit par Christopher Nolan, sorti en 2013. Basé sur Superman, personnage de DC Comics, le long-métrage est un reboot qui dépeint les origines du super-héros."
+    },
+    {
+      "title": "La Reine des neiges",
+      "description": "La Reine des neiges (Frozen) est le 128e long-métrage d'animation et le 53e « Classique d'animation » des studios Disney. Sorti en 2013, il est librement inspiré du conte homonyme de Hans Christian Andersen publié en 1844. Il raconte l'histoire de l'optimiste et intrépide princesse Anna, partie en voyage aux côtés de Kristoff le montagnard, de Sven, son fidèle renne, et d'un drôle de bonhomme de neige nommé Olaf, afin de retrouver sa sœur, Elsa, exilée à cause de ses pouvoirs glaciaux, qui ont accidentellement plongé le royaume d'Arendelle dans un hiver éternel."
+    }
+  ],
+  "lastChance": [
+    {
+      "title": "Boruto : Naruto, le film",
+      "description": "Boruto : Naruto, le film (BORUTO ボルト -NARUTO THE MOVIE-?) est un film d'animation japonais réalisé par Hiroyuki Yamashita, sorti le 7 août 2015 au Japon. Ce onzième long métrage basé sur la saga Naruto met en scène la vie du jeune Boruto, l'ainé des enfants de Naruto Uzumaki et Hinata Hyûga. Il est en lien avec le spin-off Naruto Gaiden, qui raconte les histoires de Boruto Uzumaki, Sarada Uchiwa, Mitsuki ou encore Shikadai Nara, Inojin Yamanaka et Chôchô Akimichi"
+    },
+    {
+      "title": "Dragon Ball Z : La Résurrection de F",
+      "description": "Dragon Ball Z : La Résurrection de ‘F’ (ドラゴンボールZ　復活の「F」, Doragon Bōru Zetto: Fukkatsu no Efu?, trad. litt. « Dragon Ball Z : La résurrection de « F » ») est le 19e film d'animation japonais de l'univers Dragon Ball, sorti le 18 avril 2015 au Japon"
+    },
+    {
+      "title": "One Piece, le film",
+      "description": "One Piece : Le film, intitulé simplement One Piece (ワンピース?) au Japon, est le tout premier film de la franchise One Piece, mettant en scène les personnages de Monkey D. Luffy, Roronoa Zoro, Nami et Usopp."
+    }
+  ]
+}
+
